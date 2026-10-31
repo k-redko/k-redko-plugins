@@ -1,10 +1,11 @@
 {
-  "name": "claude-statusline",
+  "name": "k-redko-plugins",
+  "description": "Claude Code plugins by Kostiantyn Redko",
   "owner": { "name": "Kostiantyn Redko" },
   "plugins": [
     {
       "name": "usage-footer",
-      "source": "./",
+      "source": "./plugins/usage-footer",
       "description": "Subscription usage (5h session, weekly) as progress bars on the right of the footer mode row"
     }
   ]
