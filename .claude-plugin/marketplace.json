@@ -1,0 +1,11 @@
+{
+  "name": "claude-statusline",
+  "owner": { "name": "Kostiantyn Redko" },
+  "plugins": [
+    {
+      "name": "usage-footer",
+      "source": "./",
+      "description": "Subscription usage (5h session, weekly) as progress bars on the right of the footer mode row"
+    }
+  ]
+}

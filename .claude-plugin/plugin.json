@@ -1,0 +1,7 @@
+{
+  "name": "usage-footer",
+  "version": "0.1.0",
+  "description": "Subscription usage (5h session, weekly) as progress bars on the right of the footer mode row",
+  "author": { "name": "Kostiantyn Redko" },
+  "types":"./types/index.d.ts"
+}
